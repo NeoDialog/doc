@@ -3,6 +3,6 @@
 </a>
 
 
-**JS library = ( responsive, modern ) => { dialog , alert , toast and snackbar }**
+**NeoDialog = ( responsive, modern ) => { dialog , alert , toast and snackbar }**
 
 
