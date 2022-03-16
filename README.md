@@ -1,5 +1,5 @@
-<a href="https://neodialog.github.io/">
-  <img src="./asset/neo-dialog.png" width="498" alt="NeoDialog">
+<a href="https://neodialog.github.io/doc">
+  <img src="./asset/neo-dialog.png" alt="NeoDialog">
 </a>
 
 
